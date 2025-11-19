@@ -1,5 +1,5 @@
 # CLASbasicKoreanFlashcards
-This is a simple web-app based from one of the many learning modules of CLAS Olongapo to learn some basics of the Korean language. It shows simple flashcards to aid learners have an overview of the basic lessons digitally. 
+This is a simple web-app, based from one of the many learning modules of CLAS Olongapo to learn some basics of the Korean language. It shows simple flashcards to aid learners have an overview of the basic lessons digitally. 
 
 ##How to Download and Install the web-app on your phone (both works for iOS/Android)
 
